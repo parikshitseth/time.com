@@ -1,0 +1,19 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "latest 5 stories from time.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ."
+  },
+  "keywords": [],
+  "author": "Parikshit Seth",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
